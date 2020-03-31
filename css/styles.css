@@ -37,6 +37,7 @@ header{
 
     .hero-section{
         text-align: center;
+        /* display: none; */
     }
     .hero-section h1{
         color: #eaeaea;
@@ -123,6 +124,7 @@ header{
 
     .portfolio{
         text-align: center;
+        opacity: 0;
     }
     .portfolio h2{
         text-transform: uppercase;
